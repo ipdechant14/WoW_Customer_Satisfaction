@@ -18,6 +18,7 @@ This project aims to analyze the sentiment of the World of Warcraft community re
 ## Tools and Technologies
 - **Python**: For data collection, processing, and Machine Learning.
 - **Jupyter Notebook**: For interactive data exploration and analysis.
+- **Spyder** For writing large modules and repeatable functions and code. 
 - **Pandas & NumPy**: For data manipulation and numerical computation.
 - **Matplotlib & Seaborn**: For data visualization.
 - **Scikit-learn & TensorFlow**: For implementing Machine Learning models.
